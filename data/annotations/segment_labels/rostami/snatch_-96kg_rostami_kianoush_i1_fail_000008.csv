@@ -1,0 +1,8 @@
+video,video_relpath,start_frame,end_frame,phase_id,phase_name
+snatch_-96kg_rostami_kianoush_i1_fail_000008.mp4,rostami/snatch_-96kg_rostami_kianoush_i1_fail_000008.mp4,0,31,0,unlabeled
+snatch_-96kg_rostami_kianoush_i1_fail_000008.mp4,rostami/snatch_-96kg_rostami_kianoush_i1_fail_000008.mp4,32,52,1,setup
+snatch_-96kg_rostami_kianoush_i1_fail_000008.mp4,rostami/snatch_-96kg_rostami_kianoush_i1_fail_000008.mp4,53,64,2,first_pull
+snatch_-96kg_rostami_kianoush_i1_fail_000008.mp4,rostami/snatch_-96kg_rostami_kianoush_i1_fail_000008.mp4,65,67,3,transition
+snatch_-96kg_rostami_kianoush_i1_fail_000008.mp4,rostami/snatch_-96kg_rostami_kianoush_i1_fail_000008.mp4,68,73,4,second_pull
+snatch_-96kg_rostami_kianoush_i1_fail_000008.mp4,rostami/snatch_-96kg_rostami_kianoush_i1_fail_000008.mp4,74,81,5,turnover
+snatch_-96kg_rostami_kianoush_i1_fail_000008.mp4,rostami/snatch_-96kg_rostami_kianoush_i1_fail_000008.mp4,82,149,0,unlabeled

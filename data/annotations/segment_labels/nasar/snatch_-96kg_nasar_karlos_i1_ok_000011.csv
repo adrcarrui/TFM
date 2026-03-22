@@ -1,0 +1,9 @@
+video,video_relpath,start_frame,end_frame,phase_id,phase_name
+snatch_-96kg_nasar_karlos_i1_ok_000011.mp4,nasar/snatch_-96kg_nasar_karlos_i1_ok_000011.mp4,0,23,1,setup
+snatch_-96kg_nasar_karlos_i1_ok_000011.mp4,nasar/snatch_-96kg_nasar_karlos_i1_ok_000011.mp4,24,39,2,first_pull
+snatch_-96kg_nasar_karlos_i1_ok_000011.mp4,nasar/snatch_-96kg_nasar_karlos_i1_ok_000011.mp4,40,42,3,transition
+snatch_-96kg_nasar_karlos_i1_ok_000011.mp4,nasar/snatch_-96kg_nasar_karlos_i1_ok_000011.mp4,43,49,4,second_pull
+snatch_-96kg_nasar_karlos_i1_ok_000011.mp4,nasar/snatch_-96kg_nasar_karlos_i1_ok_000011.mp4,50,58,5,turnover
+snatch_-96kg_nasar_karlos_i1_ok_000011.mp4,nasar/snatch_-96kg_nasar_karlos_i1_ok_000011.mp4,59,67,6,catch
+snatch_-96kg_nasar_karlos_i1_ok_000011.mp4,nasar/snatch_-96kg_nasar_karlos_i1_ok_000011.mp4,68,124,7,recovery
+snatch_-96kg_nasar_karlos_i1_ok_000011.mp4,nasar/snatch_-96kg_nasar_karlos_i1_ok_000011.mp4,125,174,0,unlabeled

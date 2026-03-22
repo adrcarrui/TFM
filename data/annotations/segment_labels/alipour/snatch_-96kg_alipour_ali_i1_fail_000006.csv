@@ -1,0 +1,8 @@
+video,video_relpath,start_frame,end_frame,phase_id,phase_name
+snatch_-96kg_alipour_ali_i1_fail_000006.mp4,alipour/snatch_-96kg_alipour_ali_i1_fail_000006.mp4,0,23,0,unlabeled
+snatch_-96kg_alipour_ali_i1_fail_000006.mp4,alipour/snatch_-96kg_alipour_ali_i1_fail_000006.mp4,24,37,1,setup
+snatch_-96kg_alipour_ali_i1_fail_000006.mp4,alipour/snatch_-96kg_alipour_ali_i1_fail_000006.mp4,38,50,2,first_pull
+snatch_-96kg_alipour_ali_i1_fail_000006.mp4,alipour/snatch_-96kg_alipour_ali_i1_fail_000006.mp4,51,54,3,transition
+snatch_-96kg_alipour_ali_i1_fail_000006.mp4,alipour/snatch_-96kg_alipour_ali_i1_fail_000006.mp4,55,60,4,second_pull
+snatch_-96kg_alipour_ali_i1_fail_000006.mp4,alipour/snatch_-96kg_alipour_ali_i1_fail_000006.mp4,61,69,5,turnover
+snatch_-96kg_alipour_ali_i1_fail_000006.mp4,alipour/snatch_-96kg_alipour_ali_i1_fail_000006.mp4,70,124,0,unlabeled
