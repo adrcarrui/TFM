@@ -1,9 +1,0 @@
-video,video_relpath,start_frame,end_frame,phase_id,phase_name
-snatch_-96kg_moeini_sedeh_alireza_i2_ok_000016.mp4,moeini/snatch_-96kg_moeini_sedeh_alireza_i2_ok_000016.mp4,0,37,1,setup
-snatch_-96kg_moeini_sedeh_alireza_i2_ok_000016.mp4,moeini/snatch_-96kg_moeini_sedeh_alireza_i2_ok_000016.mp4,38,53,2,first_pull
-snatch_-96kg_moeini_sedeh_alireza_i2_ok_000016.mp4,moeini/snatch_-96kg_moeini_sedeh_alireza_i2_ok_000016.mp4,54,57,3,transition
-snatch_-96kg_moeini_sedeh_alireza_i2_ok_000016.mp4,moeini/snatch_-96kg_moeini_sedeh_alireza_i2_ok_000016.mp4,58,62,4,second_pull
-snatch_-96kg_moeini_sedeh_alireza_i2_ok_000016.mp4,moeini/snatch_-96kg_moeini_sedeh_alireza_i2_ok_000016.mp4,63,72,5,turnover
-snatch_-96kg_moeini_sedeh_alireza_i2_ok_000016.mp4,moeini/snatch_-96kg_moeini_sedeh_alireza_i2_ok_000016.mp4,73,83,6,catch
-snatch_-96kg_moeini_sedeh_alireza_i2_ok_000016.mp4,moeini/snatch_-96kg_moeini_sedeh_alireza_i2_ok_000016.mp4,84,158,7,recovery
-snatch_-96kg_moeini_sedeh_alireza_i2_ok_000016.mp4,moeini/snatch_-96kg_moeini_sedeh_alireza_i2_ok_000016.mp4,159,199,0,unlabeled

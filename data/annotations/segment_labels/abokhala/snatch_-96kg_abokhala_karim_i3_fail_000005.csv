@@ -1,8 +1,0 @@
-video,video_relpath,start_frame,end_frame,phase_id,phase_name
-snatch_-96kg_abokhala_karim_i3_fail_000005.mp4,abokhala/snatch_-96kg_abokhala_karim_i3_fail_000005.mp4,0,26,0,unlabeled
-snatch_-96kg_abokhala_karim_i3_fail_000005.mp4,abokhala/snatch_-96kg_abokhala_karim_i3_fail_000005.mp4,27,50,1,setup
-snatch_-96kg_abokhala_karim_i3_fail_000005.mp4,abokhala/snatch_-96kg_abokhala_karim_i3_fail_000005.mp4,51,65,2,first_pull
-snatch_-96kg_abokhala_karim_i3_fail_000005.mp4,abokhala/snatch_-96kg_abokhala_karim_i3_fail_000005.mp4,66,69,3,transition
-snatch_-96kg_abokhala_karim_i3_fail_000005.mp4,abokhala/snatch_-96kg_abokhala_karim_i3_fail_000005.mp4,70,74,4,second_pull
-snatch_-96kg_abokhala_karim_i3_fail_000005.mp4,abokhala/snatch_-96kg_abokhala_karim_i3_fail_000005.mp4,75,83,5,turnover
-snatch_-96kg_abokhala_karim_i3_fail_000005.mp4,abokhala/snatch_-96kg_abokhala_karim_i3_fail_000005.mp4,84,99,0,unlabeled

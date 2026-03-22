@@ -1,8 +1,0 @@
-video,video_relpath,start_frame,end_frame,phase_id,phase_name
-snatch_-96kg_nasar_karlos_i3_fail_000017.mp4,nasar/snatch_-96kg_nasar_karlos_i3_fail_000017.mp4,0,21,1,setup
-snatch_-96kg_nasar_karlos_i3_fail_000017.mp4,nasar/snatch_-96kg_nasar_karlos_i3_fail_000017.mp4,22,35,2,first_pull
-snatch_-96kg_nasar_karlos_i3_fail_000017.mp4,nasar/snatch_-96kg_nasar_karlos_i3_fail_000017.mp4,36,38,3,transition
-snatch_-96kg_nasar_karlos_i3_fail_000017.mp4,nasar/snatch_-96kg_nasar_karlos_i3_fail_000017.mp4,39,44,4,second_pull
-snatch_-96kg_nasar_karlos_i3_fail_000017.mp4,nasar/snatch_-96kg_nasar_karlos_i3_fail_000017.mp4,45,53,5,turnover
-snatch_-96kg_nasar_karlos_i3_fail_000017.mp4,nasar/snatch_-96kg_nasar_karlos_i3_fail_000017.mp4,54,61,6,catch
-snatch_-96kg_nasar_karlos_i3_fail_000017.mp4,nasar/snatch_-96kg_nasar_karlos_i3_fail_000017.mp4,62,99,0,unlabeled

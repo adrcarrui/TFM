@@ -1,9 +1,0 @@
-video,video_relpath,start_frame,end_frame,phase_id,phase_name
-snatch_-96kg_friedich_raphael_i2_ok_000003.mp4,friedrich/snatch_-96kg_friedich_raphael_i2_ok_000003.mp4,0,16,0,unlabeled
-snatch_-96kg_friedich_raphael_i2_ok_000003.mp4,friedrich/snatch_-96kg_friedich_raphael_i2_ok_000003.mp4,17,41,1,setup
-snatch_-96kg_friedich_raphael_i2_ok_000003.mp4,friedrich/snatch_-96kg_friedich_raphael_i2_ok_000003.mp4,42,57,2,first_pull
-snatch_-96kg_friedich_raphael_i2_ok_000003.mp4,friedrich/snatch_-96kg_friedich_raphael_i2_ok_000003.mp4,58,60,3,transition
-snatch_-96kg_friedich_raphael_i2_ok_000003.mp4,friedrich/snatch_-96kg_friedich_raphael_i2_ok_000003.mp4,61,66,4,second_pull
-snatch_-96kg_friedich_raphael_i2_ok_000003.mp4,friedrich/snatch_-96kg_friedich_raphael_i2_ok_000003.mp4,67,76,5,turnover
-snatch_-96kg_friedich_raphael_i2_ok_000003.mp4,friedrich/snatch_-96kg_friedich_raphael_i2_ok_000003.mp4,77,86,6,catch
-snatch_-96kg_friedich_raphael_i2_ok_000003.mp4,friedrich/snatch_-96kg_friedich_raphael_i2_ok_000003.mp4,87,149,7,recovery

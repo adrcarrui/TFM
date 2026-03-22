@@ -1,9 +1,0 @@
-video,video_relpath,start_frame,end_frame,phase_id,phase_name
-snatch_-96kg_rostami_kianoush_i2_ok_000010.mp4,rostami/snatch_-96kg_rostami_kianoush_i2_ok_000010.mp4,0,29,1,setup
-snatch_-96kg_rostami_kianoush_i2_ok_000010.mp4,rostami/snatch_-96kg_rostami_kianoush_i2_ok_000010.mp4,30,42,2,first_pull
-snatch_-96kg_rostami_kianoush_i2_ok_000010.mp4,rostami/snatch_-96kg_rostami_kianoush_i2_ok_000010.mp4,43,45,3,transition
-snatch_-96kg_rostami_kianoush_i2_ok_000010.mp4,rostami/snatch_-96kg_rostami_kianoush_i2_ok_000010.mp4,46,52,4,second_pull
-snatch_-96kg_rostami_kianoush_i2_ok_000010.mp4,rostami/snatch_-96kg_rostami_kianoush_i2_ok_000010.mp4,53,62,5,turnover
-snatch_-96kg_rostami_kianoush_i2_ok_000010.mp4,rostami/snatch_-96kg_rostami_kianoush_i2_ok_000010.mp4,63,67,6,catch
-snatch_-96kg_rostami_kianoush_i2_ok_000010.mp4,rostami/snatch_-96kg_rostami_kianoush_i2_ok_000010.mp4,68,143,7,recovery
-snatch_-96kg_rostami_kianoush_i2_ok_000010.mp4,rostami/snatch_-96kg_rostami_kianoush_i2_ok_000010.mp4,144,174,0,unlabeled
